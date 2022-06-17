@@ -100,8 +100,7 @@
             <a href="">
             <h2>titulo de mi entrada</h2>
                 <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum doloremque nihil maxime laudantium reiciendis distinctio quia vitae culpa numquam aliquam ad ducimus nisi soluta voluptatibus et quis cupiditate, a consectetur.
-                    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus exercitationem velit recusandae ab porro magni facilis, ad atque deleniti sit inventore cumque magnam odit temporibus quasi est obcaecati at! Temporibus!
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum doloremque nihil maxime laudantium reiciendis distinctio quia vitae culpa numquam aliquam ad ducimus nisi soluta voluptatibus et quis cupiditate, a consectetur.  
                 </p>
             </a>
         </article>
@@ -110,7 +109,6 @@
             <h2>titulo de mi entrada</h2>
                 <p>
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum doloremque nihil maxime laudantium reiciendis distinctio quia vitae culpa numquam aliquam ad ducimus nisi soluta voluptatibus et quis cupiditate, a consectetur.
-                    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus exercitationem velit recusandae ab porro magni facilis, ad atque deleniti sit inventore cumque magnam odit temporibus quasi est obcaecati at! Temporibus!
                 </p>
             </a>
         </article>
@@ -119,7 +117,15 @@
             <h2>titulo de mi entrada</h2>
                 <p>
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum doloremque nihil maxime laudantium reiciendis distinctio quia vitae culpa numquam aliquam ad ducimus nisi soluta voluptatibus et quis cupiditate, a consectetur.
-                    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus exercitationem velit recusandae ab porro magni facilis, ad atque deleniti sit inventore cumque magnam odit temporibus quasi est obcaecati at! Temporibus!
+                </p>
+            </a>
+        </article>
+
+        <article class="entrada">
+            <a href="">
+            <h2>titulo de mi entrada</h2>
+                <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum doloremque nihil maxime laudantium reiciendis distinctio quia vitae culpa numquam aliquam ad ducimus nisi soluta voluptatibus et quis cupiditate, a consectetur.
                 </p>
             </a>
         </article>
