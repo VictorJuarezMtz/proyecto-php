@@ -21,6 +21,7 @@
         </article>
 
         <article class="entrada">
+            <!--Vania Cristell-->
             <a href="">
                <h2>titulo de mi entrada</h2>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum doloremque nihil maxime laudantium reiciendis distinctio quia vitae culpa numquam aliquam ad ducimus nisi soluta voluptatibus et quis cupiditate, a consectetur.</p>
