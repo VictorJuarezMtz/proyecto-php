@@ -27,7 +27,7 @@
                 <label for="pw">password</label>
                 <input type="password" name="pw" id="pw">
 
-                <input type="submit" value="registrar">
+                <input type="submit" name="submit" value="registrar">
             </form>
         </div>
 
