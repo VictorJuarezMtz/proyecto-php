@@ -1,5 +1,5 @@
 <?php
-if (isset($_POST['submit'])) {
+if (isset($_POST)) {
     //recolectar los valores del formulario
     echo $nombre =       isset($_POST['nombre']) ? $_POST['nombre']: false;
     echo $apellidos = isset($_POST['apellidos']) ? $_POST['apellidos']: false;
@@ -8,7 +8,7 @@ if (isset($_POST['submit'])) {
 
 
     //validar los datods a la bd 
-    if (!empty($nombre) && !is_numeric($nombre) && !preg_match("/0-9/",$nombre )) {
+    if (!empty($nombre) && !is_numeric($nombre) && !preg_match("/[0-9]/",$nombre )) {
         echo "es nombre es valido";
     }
 
